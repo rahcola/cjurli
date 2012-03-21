@@ -1,7 +1,9 @@
 /target
+/native
 /lib
 /classes
 /checkouts
+test.db
 pom.xml
 *.jar
 *.class
